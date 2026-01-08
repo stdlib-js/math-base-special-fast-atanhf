@@ -229,7 +229,6 @@ int main( void ) {
 
 <section class="related">
 
-
 </section>
 
 <!-- /.related -->
